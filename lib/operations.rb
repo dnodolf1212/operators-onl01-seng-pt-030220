@@ -13,8 +13,12 @@ def unsafe?(speed)
 
 #if (ask a question that is true or false)
 
-#code which runs
+#code which runs if it is true
+#else 
+#code which runs if the question is false
+
 #end
+
 def not_safe?(speed)
 	
 end
