@@ -10,6 +10,8 @@ def unsafe?(speed)
 
 
 
+
+#(if) ask a question that is true or false
 def not_safe?(speed)
 	
 end
