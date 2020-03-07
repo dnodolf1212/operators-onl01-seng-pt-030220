@@ -22,6 +22,8 @@ def unsafe?(speed)
 #question ? code which runs if the question is true : code which runs if the question is false
 
 def not_safe?(speed)
+   speed < 40 || speed > 60 ? return true : return false 
+  
 	
 end
 	
