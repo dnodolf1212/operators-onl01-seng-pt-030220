@@ -19,6 +19,7 @@ def unsafe?(speed)
 
 #end
 
+#question ? 
 def not_safe?(speed)
 	
 end
